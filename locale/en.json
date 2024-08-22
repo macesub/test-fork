@@ -5,6 +5,6 @@
   "add": "this is NOT nesting",
   "p_one": "{{count}}sub",
   "p_other": "{{count}}subs",
-  "po1": "adding test",
-  "po2": "adding test"
+  "po1": "adding test one",
+  "po2": "adding test two"
 }
