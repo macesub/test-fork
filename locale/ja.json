@@ -1,6 +1,6 @@
 {
   "test1": "テスト1",
-  "test2": "テスト2",
+  "test2": "ignore test",
   "test3": "テスト3",
   "add": "これはネストではありません",
   "p_other": "{{count}}サブ",
